@@ -1,2 +1,0 @@
-Chat GPT prompt:  
-Develop a program in Python that generates an image of a landscape based on user input. The user can select parameters such as terrain type (mountains, plains, desert, etc.), weather conditions (sunny, rainy, cloudy, etc.), and time of day (morning, afternoon, evening, night). The program should use libraries such as NumPy and Pillow to generate a realistic-looking image of the landscape, complete with features such as trees, rocks, and water bodies. The program should also be able to save the generated image to a file.
